@@ -1,0 +1,2 @@
+the script file
+to run some script
